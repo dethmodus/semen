@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1771776978879
+    },
+    "self-improving-agent": {
+      "version": "1.0.10",
+      "installedAt": 1771777034372
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1771777595245
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1771778765733
+    }
+  }
+}
